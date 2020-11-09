@@ -1,0 +1,38 @@
+.formNuevaTarea{
+    margin-left: 35%;
+    width: 26%;
+    padding: 20px 0px;
+    border-radius: 10px;
+    border-color: grey;
+    box-shadow: 1px 1px 4px grey;
+    margin-top: 55px;
+    background-color: #f3f3f3;
+}
+
+.labelNuevaTarea{
+    font-weight: 700;
+    margin-left: 36px;
+}
+
+.inputNuevaTarea{
+    border-radius: 12px;
+    height: 50px;
+    width: 280px;
+    margin-left: 35px;
+    margin-bottom: 35px;
+    border-color: #707070;
+    box-shadow: 1px 3px 7px grey;
+    font-weight: 600;
+}
+
+.botonGuardarTareas{
+    background-color: #6cd1ab;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    border-color: #6cd1ab;
+    box-shadow: 1px 3px 7px grey;
+    margin-left: 10%;
+    width: 280px;
+    margin-bottom: 25px;
+}

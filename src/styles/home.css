@@ -1,0 +1,61 @@
+.fondoHome{
+    background-color: #00c2ff;
+    min-height: 85vh;
+}
+
+.logoHome{
+    height: 70px;
+    margin-left: 40vh;
+}
+
+.hewtecHome{
+    font-size: 40px;
+    color: white;
+    display: inline;
+    margin: 10px;
+    vertical-align: text-top;
+}
+
+.welcome{
+    color: white;
+    font-size: 100px;
+    font-weight: 600;
+    margin-left: 22vh;
+    margin-bottom: 0px;
+}
+
+.name{
+    font-size: 60px;
+    color: white;
+    margin-left: 22vh;
+}
+
+.botonHome{
+    background-color: #6cd1ab;
+    color: white;
+    width: 200px;
+    height: 45px;
+    font-size: 2rem;
+    line-height: 0;
+    font-weight: bold;
+    border-color: #6cd1ab;
+    box-shadow: 0px 2px 2px #454545;
+    margin-left: 22vh;
+}
+
+.brujaHome{
+    height: 270px;
+    filter: drop-shadow(0 4px 5px black);
+}
+
+.separacionTexto{
+    margin-top: 80px;
+}
+.separacionBruja{
+    margin-top: 90px;
+}
+
+.divBruja{
+    align-self: center;
+    margin-left: 130px;
+}
