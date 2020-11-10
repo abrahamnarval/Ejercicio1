@@ -37,3 +37,10 @@
     margin-bottom: 25px;
     cursor: pointer;
 }
+
+.error{
+    font-size: 20px;
+    text-align: center;
+    width: 78%;
+    margin-left: 10.5%;
+}
